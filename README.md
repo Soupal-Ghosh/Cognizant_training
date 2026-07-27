@@ -1,2 +1,2 @@
 Repository for the cognizant training regarding Java FSE . 
-Contains solutions to assignments done module wise . 
+Contains solutions to assignments .
